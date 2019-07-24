@@ -5,7 +5,7 @@ The idea of this project is to build a web app to help people in transferring th
 
 # Demo
 
-<a href="https://wmm3636.github.io">Ship-Packages App</a>
+<a href="https://ship-packages.herokuapp.com/users/sign_in">Ship-Packages App</a>
 
 
 # Technologies Used:
@@ -30,4 +30,3 @@ Ruby, Rails, JavaScript, HTML and CSS.
 - https://developer.mozilla.org
 - https://tympanus.net
 - www.w3schools.com
-- 
